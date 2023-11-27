@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @vineelreddy1
-- 👀 I’m interested in software field
-- 🌱 I’m currently learning computer science and engineering
+ <br>
+- 👀 I’m interested in <b>software field</b>
+- 🌱 I’m currently learning <i>computer science and engineering</i>
+<br>
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
